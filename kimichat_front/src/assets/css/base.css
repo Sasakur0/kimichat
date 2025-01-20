@@ -1,0 +1,18 @@
+@import url(https://at.alicdn.com/t/c/font_4723777_wbzpayli4.css);
+h1,h2,h3,h4,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
